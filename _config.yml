@@ -96,12 +96,13 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/shawn_kwak"
+    - "https://www.linkedin.com/in/seonghyeon-kwak-5a075397"
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-63647961-2"
     anonymize_ip         : # true, false (default)
 
 
