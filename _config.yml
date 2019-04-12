@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "RCE Mania"
 title_separator          : "-"
 name                     : "Shawn Kwak"
-description              : "An amazing website."
+description              : "Research to Reverse Engineering, System Programming, Cyber Security and so on."
 url                      : "https://shawnkwak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "shawnkwak/shawnkwak.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -76,8 +76,8 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : 2YlGWWvHVSyscoFDLvCK4CMgBNO6QwCuRdD4gxyrw1w
-bing_site_verification   :
+google_site_verification : 2YlGWWvHVSyscoFDLvCK4CMgBNO6QwCuRdD4gxyrw1w # 1010xksh@gmail.com
+bing_site_verification   : B90F45265144B99A051B8F4B78F31324 #1010_ksh@hotmail.co.kr
 yandex_site_verification :
 naver_site_verification  :
 
