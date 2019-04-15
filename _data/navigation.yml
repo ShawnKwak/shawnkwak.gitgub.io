@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "Home"
-    url: https://shawnkwak.github.io/
+    url: /
   - title: "About"
-    url: https://shawnkwak.github.io/shawn/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /about/
+  - title: "Posts"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   # - title: "Sitemap"
   #   url: /sitemap/
