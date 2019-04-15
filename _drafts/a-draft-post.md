@@ -7,9 +7,8 @@ comments: true
 ---
 
 
-'''
-python
-import datetime
-now = datetime.datetime.now()
-print(now)
-'''
+    python -c 'import datetime;now=datetime.datetime.now();print(now);'
+
+
+
+
