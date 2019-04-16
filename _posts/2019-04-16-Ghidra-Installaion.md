@@ -14,7 +14,7 @@ comments: true
 
 얼마전 [RSA USA 2019 발표](https://www.rsaconference.com/events/us19/agenda/sessions/16608-come-get-your-free-nsa-reverse-engineering-tool)에서 NSA가 만든 리버스 엔지니어링 툴이 공개 됐다. 
 
-[](https://www.notion.so/697f0cc1a79e4c71a88a67af611da6e5#00dec1ec61e64e658a6275e4e0e50e0a)
+[](/assets/posts_img/Ghidra-Installation-01.png)
 
 [발표자료](https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13678/PNG-T09-Come-Get-Your-Free-NSA-Reverse-Engineering-Tool%21.pdf)에서 설명하는 주요 기능은 아래와 같다.
 
@@ -55,9 +55,7 @@ Ghidra는 OpenJDK 환경에서 개발되고 테스트되었다. 그렇기 때문
 
 ## Reference
 
-[Come Get Your Free NSA Reverse Engineering Tool! | USA 2019 | RSA Conference](https://www.rsaconference.com/events/us19/agenda/sessions/16608-Come-Get-Your-Free-NSA-Reverse-Engineering-Tool)
-
-RSA USA 2019 Session
+[Come Get Your Free NSA Reverse Engineering Tool!](https://www.rsaconference.com/events/us19/agenda/sessions/16608-Come-Get-Your-Free-NSA-Reverse-Engineering-Tool)
 
 [png-t09-come-get-your-free-nsa-reverse-engineering-tool_.pdf](https://www.notion.so/697f0cc1a79e4c71a88a67af611da6e5#e9f1ef31c5fd47a19a0c1924c4ede9cb)
 
