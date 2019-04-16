@@ -2,11 +2,9 @@
 title: Draft page
 date: 2019-04-15 16:14:01 +09:00
 categories:
-  - ""
+  - [tech, blog]
 tag:
-  - "" 
-  - ""
-  - ""
+  - [tech, blog]
 toc: true
 comments: true
 ---

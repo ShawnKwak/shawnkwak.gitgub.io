@@ -1,11 +1,8 @@
 ---
 title: Ghidra Installation
 date: 2019-04-16 11:18:11 +09:00
-categories:
-  - "tips"
-tag:
-  - "ghidra" 
-  - "install"
+categories: [tips]
+tag: [ghidra, reverse engineering, RSA USA 2019, IDA]
 toc: true
 comments: true
 ---
