@@ -48,7 +48,7 @@ Ghidra는 OpenJDK 환경에서 개발되고 테스트되었다. 그렇기 때문
 
 아래와 같이 사용자 동의가 뜨면 정상 실행이 된 것이다.
 
-[](https://www.notion.so/697f0cc1a79e4c71a88a67af611da6e5#4fe2e650e2b945e1bb7187b3c9519359)
+![Ghidra-Installation-02](/assets/posts_img/Ghidra-Installation-02.png)
 
 ---
 
