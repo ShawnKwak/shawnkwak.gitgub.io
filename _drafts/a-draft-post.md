@@ -21,6 +21,7 @@ comments: true
 
 # Image align
 ![Ghidra-Installation-01](/assets/posts_img/Ghidra-Installation-01.png){: .align-center}
+\_utilites.scss 파일 참조
 
 # Reference
 https://github.com/shryu8902/shryu8902.github.io
