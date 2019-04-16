@@ -43,9 +43,8 @@ Ghidra는 OpenJDK 환경에서 개발되고 테스트되었다. 그렇기 때문
 
 2. Ghidra 실행
 
-    <GhidraInstallDir>/ghidraRun.bat 실행(Windows)
-
-    <GhidraInstallDir>/ghidraRun 실행(Linux or macOS)
+- <GhidraInstallDir>/ghidraRun.bat 실행(Windows)
+- <GhidraInstallDir>/ghidraRun 실행(Linux or macOS)
 
 아래와 같이 사용자 동의가 뜨면 정상 실행이 된 것이다.
 
