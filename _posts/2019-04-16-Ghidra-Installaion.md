@@ -14,7 +14,7 @@ comments: true
 
 얼마전 [RSA USA 2019 발표](https://www.rsaconference.com/events/us19/agenda/sessions/16608-come-get-your-free-nsa-reverse-engineering-tool)에서 NSA가 만든 리버스 엔지니어링 툴이 공개 됐다. 
 
-![Ghidra-Installation-01](/assets/posts_img/Ghidra-Installation-01.png){: .center-image}
+![Ghidra-Installation-01](/assets/posts_img/Ghidra-Installation-01.png){: .align-center}
 
 [발표자료](https://published-prd.lanyonevents.com/published/rsaus19/sessionsFiles/13678/PNG-T09-Come-Get-Your-Free-NSA-Reverse-Engineering-Tool%21.pdf)에서 설명하는 주요 기능은 아래와 같다.
 
