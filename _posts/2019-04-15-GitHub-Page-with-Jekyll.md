@@ -1,12 +1,8 @@
 ---
 title: GitHub Page with Jekyll
 date: 2019-04-15 16:14:01 +09:00
-categories:
-  - "tips"
-tag:
-  - "github" 
-  - "blog"
-  - "jekyll"
+categories: [tips]
+tag: [github, blog, jekyll, install]
 toc: true
 comments: true
 ---
